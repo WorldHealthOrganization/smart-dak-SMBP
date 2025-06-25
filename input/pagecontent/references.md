@@ -1,13 +1,10 @@
-This implementation guide is meant to facilitate operationalization of the World Health Organization (WHO) Digital Adaptation Kit (DAK) for <mark>[insert health domain here]</mark>. This page includes links to the published DAK for <mark>[insert health domain here]</mark>, as well as a small subset of other references.
+This implementation guide is meant to facilitate operationalization of the World Health Organization (WHO) Digital Adaptation Kit (DAK) for <mark>[self-monitoring of blood pressure in pregnancy]</mark>. This page includes links to the published DAK for <mark>self-monitoring of blood pressure in pregnancy</mark>, as well as a small subset of other references.
 
-For additional resources, see the <a href="dependencies.html">Dependencies</a> page, which includes the standards referenced in this implementation guide and the references section in the published DAK for <mark>[insert health domain here]</mark>.
+For additional resources, see the <a href="dependencies.html">Dependencies</a> page, which includes the standards referenced in this implementation guide and the references section in the published DAK for <mark>self-monitoring of blood pressure in pregnancy</mark>.
 
-### WHO Digital Adaptation Kit (DAK) for <mark>[insert health domain here]</mark>
+### WHO Digital Adaptation Kit (DAK) for <mark>self-monitoring of blood pressure in pregnancy</mark>
 
-> The Digital Adaptation Kit was published on \[publication date\]:
->
-> \[Link to the DAK and accompanying web annexes when available\]
-
+> The Digital Adaptation Kit is available at https://iris.who.int/handle/10665/381616.  
 ### WHO guideline development
     
 -   [WHO SMART Guidelines](https://www.who.int/teams/digital-health-and-innovation/smart-guidelines) - provides an overview of the SMART Guidelines approach
