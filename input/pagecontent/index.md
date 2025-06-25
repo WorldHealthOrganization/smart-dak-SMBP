@@ -1,9 +1,3 @@
-<!---Note: Remove this below div element for releasing, only to maintain for main branch -->
-<div>
-<p> This DAK and set of implementation tools are still undergoing development. </p>
-<p> Content is for demonstration purposes only. </p>
-</div>{:.stu-note}
-
 
 ### Summary 
 This WHO <mark>[<mark>digital adaptation kit focuses on self-monitoring of blood pressure in pregnancy]</mark> (https://iris.who.int/handle/10665/381616).] <mark>
