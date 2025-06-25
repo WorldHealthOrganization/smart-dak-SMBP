@@ -10,7 +10,7 @@ that are performed within the business process. The workflow provides a “story
 for the business process being diagrammed and is used to enhance communication 
 and collaboration among users, stakeholders and engineers.
 
-The DAK for <mark>[self-monitoring of blood pressure in pregnancy]</mark> focuses on key business processes <mark>related to identification and preparation for SMBP, conducting SMBP, and ANC contact </mark>.
+The DAK for <mark>[self-monitoring of blood pressure in pregnancy]</mark> focuses on key business processes <mark>related to identification and preparation for SMBP, conducting SMBP, and ANC contact</mark>.
 
 ### Overview of Key Business Processes 
 The following table describes the workflows of the included processes. 
