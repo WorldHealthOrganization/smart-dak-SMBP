@@ -9,10 +9,10 @@ kit for antenatal care: operational requirements for implementing WHO recommenda
 SMBP may be integrated.<mark>
 
 ### L1 Narrative guidelines
-<mark>WHO recommends self-care interventions within a safe, supportive and enabling environment with appropriate links to the health system (21). This first
+<mark>WHO recommends self-care interventions within a safe, supportive and enabling environment with appropriate links to the health system. This first
 edition of the DAK on self-care interventions focuses on self-monitoring blood pressure in pregnancy in which WHO suggests making the self-monitoring
-of blood pressure during pregnancy available as an additional option to clinic blood pressure monitoring by health workers solely during antenatal
-contacts, for individuals with hypertensive disorders of pregnancy.</mark>
+of blood pressure during pregnancy available as an additional option to clinic blood pressure monitoring by health workers during antenatal
+contacts, among individuals with hypertensive disorders of pregnancy.</mark>
 
 ### L2 Operational guidelines
 The L2 <mark>[self-monitoring of blood pressure in pregnancy]</mark> Digital adaptation kit publications and implementations tools can be found here:
