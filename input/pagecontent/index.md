@@ -6,40 +6,40 @@
 
 
 ### Summary 
-This WHO <mark>[insert health domain here]</mark> DAK <mark>add content here</mark>
+This WHO <mark>[<mark>digital adaptation kit focuses on self-monitoring of blood pressure in pregnancy]</mark> (https://iris.who.int/handle/10665/381616).] <mark>
 
 ### L1 Narrative guidelines
-<mark>[insert content here]</mark>
+<mark>WHO recommends self-care interventions within a safe, supportive and enabling environment with appropriate links to the health system (21). This first
+edition of the DAK on self-care interventions focuses on self-monitoring blood pressure in pregnancy in which WHO suggests making the self-monitoring
+of blood pressure during pregnancy available as an additional option to clinic blood pressure monitoring by health workers solely during antenatal
+contacts, for individuals with hypertensive disorders of pregnanc.</mark>
 
 ### L2 Operational guidelines
-The L2 <mark>[insert health domain here]</mark> Digital adaptation kit publications and implementations tools can be found here:
+The L2 <mark>[self-monitoring of blood pressure in pregnancy]</mark> Digital adaptation kit publications and implementations tools can be found here:
 
 <!-- insert links inside the parentheses below --->
-- [Published DAK Document]()
+- [Published DAK Document-https://iris.who.int/handle/10665/381616]()
 
 - [Link to core data dictionary]()
  
 - [Link to decision support logic]() 
 
-- [Link to scheduling logic]() 
 
-- [Link to indicators table]()
- 
 - [Link to functional and non functional requirements]()
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the <mark>[insert health domain here]</mark> SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
+The L3 FHIR Implementation Guide for the <mark>[self-monitoring of blood pressure in pregnancy]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### L4 Executable guidelines
-Reference implementations representing the L4 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Reference implementations representing the L4 layer for the <mark>[self-monitoring of blood pressure in pregnancy]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### L5 Dynamic guidelines
-Content representing the L5 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Content representing the L5 layer for the <mark>[iself-monitoring of blood pressure in pregnancy]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### News
 
 ### Contact Us
-<p>Please let us know about your experience in using the DAK and questions you may have by contacting us at <a href= "mailto:SMART@who.int?subject = DAK Feedback">SMART@who.int</a></p>
+<p>Please let us know about your experience in using the DAK and questions you may have by contacting us at <a href= "mailto:SMART_DAKS@who.int?subject = DAK Feedback">SMART_DAKS@who.int</a></p>
 
 ### License
 This work is licensed under a
@@ -52,7 +52,7 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg
 
 ### Providing Feedback
-{% include feedback.md %}
+Contact us at <a href= "mailto:SMART_DAKS@who.int?subject = DAK Feedback">SMART_DAKS@who.int</a></p>
 
 <!-- for main branch of DAK repos only, remove while releases -->
 ### Disclaimer
