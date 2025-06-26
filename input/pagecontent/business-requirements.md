@@ -4,6 +4,6 @@
 - [**Business Processes**](business-processes.html) - Depiction of business processes as visual workflows as introduced in the L2
 - [**Data Dictionary**](dictionary.html) - Data dictionary with detailed data specifications as introduced in the L2
 - [**Decision-support Logic**](decision-logic.html) - Decision-support logic and algorithms as introduced in the L2
-- [**Indicator and Performance Metrics**](indicators.html) - Core set of indicators and performance metrics as introduced in the L2
+- [**Indicator and Performance Metrics**](indicators.html) - Core set of indicators and performance metrics as introduced in the L2 --not included in this DAK
 - [**Functional Requirements**](functional-requirements.html) - List of core functions and capabilities the system must have to meet the end-users’ needs and achieve tasks within the business process.
 - [**Non-functional Requirements**](non-functional-requirements.html) - List of capabilities the system must have as introduced in the L2
