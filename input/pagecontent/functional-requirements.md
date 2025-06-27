@@ -4,4 +4,3 @@ The functional requirements are listed in the high-level functional and non-func
 
 Please note that these are not exhaustive lists and should be modified according to context and user persona needs.
 
-{% include fragment-functionalrequirements.liquid %}
