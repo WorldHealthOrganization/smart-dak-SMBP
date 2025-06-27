@@ -1,0 +1,1 @@
+ Given the nature of the self-monitoring of blood pressure (SMBP) in pregnancy, the WHO Digital Adaptation Kit (DAK) for [self-monitoring of blood pressure (SMBP) in pregnancy](https://iris.who.int/handle/10665/381616) does not include scheduling logic.

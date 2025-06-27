@@ -1,10 +1,10 @@
-id: smart.who.int.dak-empty
-canonical: http://smart.who.int/dak-empty
-name: DAKEmpty
-title: SMART DAK Empty
-description: An empty Digital Adaptation Kit (DAK) Implementation Guide to be used as a starting point for publishing SMART DAK content
+id: smart.who.int.dak-smbp
+canonical: http://smart.who.int/dak-smbp
+name: DAKSmbp # Digital Adaptation Kit for self-monitoring of blood pressure in pregnancy
+title: SMART DAK SMBP
+description: SMART Digital Adaptation Kit (DAK) for self-monitoring of blood pressure in pregnancy
 status: draft # draft | active | retired | unknown
-version: 0.1.0
+version: 1.0.0
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2023+
 releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
@@ -47,12 +47,16 @@ pages:
       title: Data Dictionary
     decision-logic.md:
       title: Decision-support logic
+    scheduling-logic.md:
+      title: Scheduling logic
     indicators.md:
       title: Indicator and Performance Metrics
     functional-requirements.md:
       title: Functional Requirements
     non-functional-requirements.md:
       title: Non-functional Requirements
+    system-requirements.md:
+      title: System Requirements
   data-models-and-exchange.md:
     title: Data Models and Exchange
     system-actors.md:
@@ -105,9 +109,11 @@ menu:
     Business Processes: business-processes.html
     Data Dictionary: dictionary.html
     Decision-support Logic: decision-logic.html
+    Scheduling Logic: scheduling-logic.html
     Indicator and Performance Metrics: indicators.html
-    Functional Requirements: functional-requirements.html
-    Non-functional Requirements: non-functional-requirements.html
+    System Requirements: system-requirements.html
+    #Functional Requirements: functional-requirements.html
+    #Non-functional Requirements: non-functional-requirements.html
   Data Models and Exchange:
     System Actors: system-actors.html
     Sequence Diagrams: sequence-diagrams.html

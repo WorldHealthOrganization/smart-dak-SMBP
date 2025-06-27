@@ -1,19 +1,19 @@
-This page includes a depiction of end-users and related stakeholders as introduced in the WHO Digital Adaptation Kit for <mark>[self-monitoring of blood pressure (SMBP) in pregnancy]</mark> (https://iris.who.int/handle/10665/381616).
+This page includes a depiction of end-users and related stakeholders as introduced in the WHO Digital Adaptation Kit for self-monitoring of blood pressure (SMBP) in pregnancy (https://iris.who.int/handle/10665/381616).
 
 The specific roles and demographic profile of the personas will vary depending on the setting, the generic personas are based on the WHO core competencies and credentials of different health worker personas.
 
 
 ### Targeted generic personas
 
-The targeted personas for the <mark>[self-monitoring of blood pressure (SMBP) in pregnancy]</mark>  Digital Adaptation Kit are
-pregnant women, or in the context of self-care interventions broadly, we refer to these personas as "clients"
+The targeted personas for the self-monitoring of blood pressure (SMBP) in pregnancy  Digital Adaptation Kit are
+pregnant women, or in the context of self-care interventions broadly, we refer to these personas as "clients".
 
 **Descriptions of key generic personas**
 
 The person acting to “promote health, prevent disease, maintain health, and cope with illness and disability with or without the
 support of a health worker” by using a self-care intervention on themselves, a family member or friend to whom they voluntarily
 give care without compensation. Clients are a diverse population group, representing different demographics, backgrounds and
-social situations, with varying motivations for choosing self-care interventions
+social situations, with varying motivations for choosing self-care interventions.
 
 **Related personas**
 

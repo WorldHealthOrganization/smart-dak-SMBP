@@ -1,20 +1,15 @@
 This page describes the decision support logic included in the WHO
-Digital Adaptation Kit (DAK) for <mark>[self-monitoring of blood pressure (SMBP) in pregnancy]</mark> (https://iris.who.int/handle/10665/381616). 
+Digital Adaptation Kit (DAK) for self-monitoring of blood pressure (SMBP) in pregnancy (https://iris.who.int/handle/10665/381616). 
 
 The decision-support logic component provides the decision logic and
-algorithms, as well as the scheduling of services, in accordance with
-WHO guidelines. The decision logic and algorithms in this implementation
-guide deconstruct the recommendations within the <mark>[self-monitoring of blood pressure (SMBP) in pregnancy]</mark> recommendation into a format that clearly labels the
+algorithms in accordance with the recommendations within self-monitoring of blood pressure (SMBP) in pregnancy guidelines and guidance and deconstruct them into a machine readable format that clearly labels the
 inputs and outputs that would be operationalized in a digital
-decision-support system.
+decision-support system. The structure of the decision-support tables is based on an adaptation of the Decision Model and Notation (DMN™), an industry standard for modelling and executing decision logic.<br>
+The table below presents the versions of the decision-support logic.
 
-### Decision Support Logic Overview
-The table below provides an overview of the decision-support tables and
-algorithms for the different business processes in an EIR. The structure
-of the decision-support tables is based on an adaptation of the Decision
-Model and Notation (DMN™), an industry standard for modelling and
-executing decision logic. These decision-support tables detail the
-business rules, data inputs and outputs to support EIR business
-processes.
+| Version | Link |
+|---|---|
+| current* | [SMBP DAK_decision-support logic.xlsx](SMBP DAK_decision-support logic.xlsx) |
+|1.0.0 | [SMBP DAK_decision-support logic.xlsx](https://smart.who.int/dak-smbp/v1.0.0/SMBP DAK_decision-support logic.xlsx) |
 
-**Overview of decision support tables**
+*The current link indicates the latest release of the file. Note: the file's latest release might not always match the release number of the Implementation Guide.
