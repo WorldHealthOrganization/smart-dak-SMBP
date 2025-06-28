@@ -1,0 +1,52 @@
+{
+  "date" : "Sat, 28 Jun, 2025 05:17:33 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-smart.who.int.dak-SMBP.json",
+      "size" : 7289,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 72
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 51,
+          "length" : 16
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 134
+        },
+        {
+          "activity" : "validate",
+          "start" : 51,
+          "length" : 10394
+        },
+        {
+          "activity" : "generate1",
+          "start" : 62,
+          "length" : 92
+        },
+        {
+          "activity" : "generate2",
+          "start" : 63,
+          "length" : 76
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 73,
+          "length" : 5
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 91,
+          "length" : 2
+        }
+      ]
+    }
+  ]
+}

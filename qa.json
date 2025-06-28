@@ -1,0 +1,19 @@
+{
+  "url" : "http://smart.who.int/dak-SMBP/ImplementationGuide/smart.who.int.dak-SMBP",
+  "name" : "DAKSmbp",
+  "title" : "SMART DAK SMBP",
+  "description" : "SMART Digital Adaptation Kit (DAK) for self-monitoring of blood pressure in pregnancy",
+  "status" : "draft",
+  "package-id" : "smart.who.int.dak-SMBP",
+  "ig-ver" : "1.0.0",
+  "date" : "Sat, 28 Jun, 2025 05:17:33 +0000",
+  "dateISO8601" : "2025-06-28T05:17:33+00:00",
+  "errs" : 2,
+  "warnings" : 6,
+  "hints" : 0,
+  "suppressed-hints" : 0,
+  "suppressed-warnings" : 0,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 1548834104
+}
