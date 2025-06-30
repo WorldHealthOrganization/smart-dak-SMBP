@@ -55,7 +55,3 @@ For more license details please see the [license page](https://smart.who.int/dak
 
 ### Providing Feedback
 Contact us at <a href= "mailto:SMART_DAKS@who.int?subject = DAK Feedback">SMART_DAKS@who.int</a>
-
-<!-- for main branch of DAK repos only, remove while releases -->
-### Disclaimer
-The specification herewith documented is a demo working specification and may not be used for any implementation purposes. This draft is provided without warranty of completeness or consistency and the official publication supersedes this draft. No liability can be inferred from the use or misuse of this specification or its consequences.
