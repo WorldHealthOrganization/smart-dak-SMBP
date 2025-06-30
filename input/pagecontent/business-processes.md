@@ -30,22 +30,22 @@ The following table describes the workflows of the included processes.
       <td>1</td>
       <td>Identification and preparation for SMBP</td>
       <td>SMBP.A</td>
-      <td>Nurse, Auxiliary nurse midwife (ANM), Community, Health Worker (CHW), Physician, Midwife, Client</td>
-      <td>To identify if a client is eligible for self-monitoring of blood pressure (SMBP), counsel clients on SMBP, guide clients on taking their blood pressure (BP) measurements and set up the personal health tracking intervention. The components of this workflow are meant to be integrated into an antenatal care (ANC) contact for clients with diagnosed hypertensive disorders in pregnancy</td>
+      <td>Nurse, Auxiliary nurse midwife (ANM), Community, Health Worker (CHW), Physician, Midwife, Client (pregnant woman, in the case of this DAK)</td>
+      <td>To identify if a client is eligible for self-monitoring of blood pressure (SMBP), counsel clients on SMBP, guide clienton taking their blood pressure (BP) measurements and set up the personal health tracking intervention. The components of this workflow are meant to be integrated into an antenatal care (ANC) contact for pregnant women with diagnosed hypertensive disorders in pregnancy</td>
     </tr>
      <tr class="odd">
       <td>2</td>
       <td>Conduct SMBP</td>
       <td>SMBP.A</td>
-      <td>Client</td>
+      <td>Client (pregnant woman)</td>
       <td>To conduct SMBP and understand the health actions in response to the BP measurement/data output</td>
     </tr>
      <tr class="odd">
       <td>3</td>
       <td>ANC contact</td>
       <td>SMBP.C/ANC.B</td>
-      <td>Client,  ANM or nurse midwife</td>
-      <td>To counsel and provide ANC services to pregnant woman</td>
+      <td>Client (pregnant woman),  ANM or nurse midwife</td>
+      <td>To counsel and provide ANC services to pregnant women</td>
     </tr>
   </tbody>
 </table>
