@@ -13,7 +13,7 @@ pregnant women, or in the context of self-care interventions broadly, we refer t
 The person acting to “promote health, prevent disease, maintain health, and cope with illness and disability with or without the
 support of a health worker” by using a self-care intervention on themselves, a family member or friend to whom they voluntarily
 give care without compensation. Clients are a diverse population group, representing different demographics, backgrounds and
-social situations, with varying motivations for choosing self-care interventions.
+social situations, with varying motivations for choosing self-care interventions. For the purposes of this DAK, the key generic personas consist of pregnant women.
 
 ### Related personas
 
