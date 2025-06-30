@@ -1,8 +1,8 @@
-id: smart.who.int.dak-SMBP
-canonical: http://smart.who.int/dak-SMBP
+id: smart.who.int.dak-smbp
+canonical: http://smart.who.int/dak-smbp
 name: DAKSmbp # Digital Adaptation Kit for self-monitoring of blood pressure in pregnancy
 title: SMART DAK SMBP
-description: SMART Digital Adaptation Kit (DAK) for self-monitoring of blood pressure in pregnancy
+description: SMART Digital Adaptation Kit (DAK) for self-monitoring of blood pressure in pregnancy (SMBP)
 status: draft # draft | active | retired | unknown
 version: 1.0.0
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
