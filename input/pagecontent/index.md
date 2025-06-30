@@ -6,7 +6,7 @@ programme area, as a mechanism to catalyse the effective use of these digital sy
 
 This DAK also complements the health worker-facing Digital adaptation
 kit for antenatal care: operational requirements for implementing WHO recommendations in digital systems [(ANC DAK)](https://iris.who.int/handle/10665/339745), in which self-care interventions such as
-SMBP may be integrated.<mark>
+SMBP may be integrated.
 
 ### L1 Narrative guidelines
 WHO recommends self-care interventions within a safe, supportive and enabling environment with appropriate links to the health system. This first
@@ -54,7 +54,7 @@ This work is licensed under a
 For more license details please see the [license page](https://smart.who.int/dak-smbp/license.html).
 
 ### Providing Feedback
-Contact us at <a href= "mailto:SMART_DAKS@who.int?subject = DAK Feedback">SMART_DAKS@who.int</a></p>
+Contact us at <a href= "mailto:SMART_DAKS@who.int?subject = DAK Feedback">SMART_DAKS@who.int</a>
 
 <!-- for main branch of DAK repos only, remove while releases -->
 ### Disclaimer

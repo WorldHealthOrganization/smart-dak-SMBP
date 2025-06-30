@@ -15,7 +15,7 @@ support of a health worker” by using a self-care intervention on themselves, a
 give care without compensation. Clients are a diverse population group, representing different demographics, backgrounds and
 social situations, with varying motivations for choosing self-care interventions.
 
-**Related personas**
+### Related personas
 
 **Midwife:** A person who has been assessed and registered by a state midwifery regulatory authority or similar regulatory
 authority. They offer care to childbearing women during pregnancy, labour and birth, and during the postpartum

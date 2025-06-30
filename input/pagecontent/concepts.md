@@ -1,1 +1,1 @@
-Please consult the "Glossary" section of the BDS DAK for the key terms and the "Abbreviations" section for the abbreviations used in the DAK.
+Please consult the "Glossary" section of the SMBP DAK for the key terms and the "Abbreviations" section for the abbreviations used in the DAK.
