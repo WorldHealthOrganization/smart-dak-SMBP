@@ -1,0 +1,6 @@
+{
+  "version" : "1.0.1",
+  "fhirVersion" : ["4.0.1"],
+  "date" : "20250701083729",
+  "name" : "smart.who.int.dak-smbp"
+}
